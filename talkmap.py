@@ -24,6 +24,12 @@ location = ""
 permalink = ""
 title = ""
 
+# ignore time out error
+def do_geocode(address):
+    try:
+        return geocoder.geocode(address)
+    except GeocoderTimedOut:
+        return do_geocode(address)
 
 for file in g:
     with open(file, 'r') as f:
@@ -35,7 +41,7 @@ for file in g:
             location = lines_trim[:loc_end]
                             
            
-        location_dict[location] = geocoder.geocode(location)
+        location_dict[location] = do_geocode(location)
         print(location, "\n", location_dict[location])
 
 

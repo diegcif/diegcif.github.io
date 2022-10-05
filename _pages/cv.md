@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering and Computer Science, MIT, 2018
+* M.S. in Electrical Engineering and Computer Science, MIT, 2014
+* B.S. in Electronics Engineering, Universidad de los Andes, 2012 (Summa Cum Laude)
+* B.S. in Mathematics, Universidad de los Andes, 2012 (Summa Cum Laude)
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Applied Math Instructor, MIT, Sep 2018--present
+* Postdoctoral Researcher, MPI MiS, Feb 2018--Aug 2018
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Honors
+======
+* *Jacobs Presidential Fellowship*, MIT EECS (2012)
+* *Ramon de Zubiria Scholarship*, Universidad de los Andes (2010, 11, 12)
+* *Biannual Excellence Scholarship*, Universidad de los Andes (2009, 09, 10)
+* *Top 5* at Vojtech Jarnik International Mathematical Competition (2011)
+* *First Prize* at International Mathematics Competition for University Students (2010)
+* *Gold Medal* at Iberoamerican University Mathematical Competition (2009)
+* *National Top Score* over 500.000 students in the colombian ICFES standarized test (2007)
+* *Bronze Medal* at International Math Olympiad (2006)
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Co-organize mini-symposium "Low rank models and applications" at Fields Institute's thematic program' 21
+* Co-organize mini-symposium "Semidefinite programming" at INFORMS Annual Meeting’ 20
+* Co-organized biweekly "Seminar on Algebra, Statistics, and Optimization" at MIT, Spring' 19
+* Organized mini-symposium "Structured polynomial equations and applications" at [*SIAM Annual Meeting' 17*](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23516)
+* Coordinator of the [national math olympiads](http://oc.uan.edu.co/) for high school and undergraduate students (Jan--Jun' 12)
