@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [MIT Math Deparment](http://math.mit.edu/). 
-Previously I was a postdoc in the [Max-Planck Institute MiS](https://www.mis.mpg.de) working with [Prof. Bernd Sturmfels](https://math.berkeley.edu/~bernd/).
-And before that I was at [MIT EECS](http://www.eecs.mit.edu), where I received my Ph.D. under the supervision of [Prof. Pablo Parrilo](http://www.mit.edu/~parrilo/).
+I am an Assistant Professor in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at Georgia Tech.
+My research centers around the development of mathematical optimization methods, and the application of these methods in engineering areas such as machine learning, statistics, robotics, power systems, and computer vision. I also work in the theoretical analysis of optimization methods, leveraging algebraic, geometric, and combinatorial information to improve efficiency and robustness.
 
-My research interests include
+Prior to joining ISyE, I was an applied math instructor in the [MIT Math Department](http://math.mit.edu/) and a postdoctoral researcher in the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de).
+I earned my Ph.D. and M.S. in [Electrical Engineering and Computer Science](http://www.eecs.mit.edu) from MIT under the supervision of [Prof. Pablo Parrilo](http://www.mit.edu/~parrilo/).
+<!-- , and my B.S. in Mathematics and B.S. in Electronics Engineering from Universidad de los Andes. -->
 
-* Mathematical optimization
-* Computational algebraic geometry
-* Their applications in sciences and engineering
 
-<!--
-I am co-organizing the seminar on [Algebra, Statistics, and Optimization](http://www.mit.edu/~diegcif/ASO) together with [Daniel Bernstein](https://dibernstein.github.io/).
--->
+<!-- My research interests include -->
+<!-- mathematical optimization, -->
+<!-- computational algebraic geometry, -->
+<!-- and their applications in sciences and engineering -->
