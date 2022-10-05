@@ -14,7 +14,7 @@ description              : &description "personal description"
 # url                      : http://localhost:4000 
 url                      : https://diegcif.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "diegcif/diegcif.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   name             : "Diego Cifuentes"
   avatar           : "profile-gatech.jpg"
   bio              : "(first name) dot (last name) at isye.gatech.edu"
-  location         : "Groseclose, Room 326"
+  location         : "GaTech, Groseclose 326"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=WLExEWYAAAAJ"
